@@ -11,6 +11,10 @@ sites:
     url: https://direct.app
   - name: benbowler.com
     url: https://benbowler.com
+  - name: G0 Labs
+    url: https://g0labs.com
+  - name: RePatched
+    url: https://repatched.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
