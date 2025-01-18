@@ -94,19 +94,19 @@
     "url": "https://repatched.com",
     "icon": "https://icons.duckduckgo.com/ip3/repatched.com.ico",
     "slug": "re-patched",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1141,
-    "timeDay": 899,
-    "timeWeek": 1166,
-    "timeMonth": 1141,
-    "timeYear": 1141,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1132,
+    "timeDay": 941,
+    "timeWeek": 1148,
+    "timeMonth": 1132,
+    "timeYear": 1132,
     "dailyMinutesDown": {
-      "2025-01-18": 0
+      "2025-01-18": 20
     }
   }
 ]
