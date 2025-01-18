@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1050,
-    "timeDay": 1213,
+    "timeDay": 950,
     "timeWeek": 909,
     "timeMonth": 1050,
     "timeYear": 1050,
@@ -94,9 +94,9 @@
     "url": "https://repatched.com",
     "icon": "https://icons.duckduckgo.com/ip3/repatched.com.ico",
     "slug": "re-patched",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +105,8 @@
     "timeWeek": 1166,
     "timeMonth": 1141,
     "timeYear": 1141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-18": 0
+    }
   }
 ]
