@@ -58,19 +58,19 @@
     "url": "https://benbowler.com",
     "icon": "https://icons.duckduckgo.com/ip3/benbowler.com.ico",
     "slug": "benbowler-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1061,
-    "timeDay": 1396,
-    "timeWeek": 997,
-    "timeMonth": 1061,
-    "timeYear": 1061,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1086,
+    "timeDay": 1512,
+    "timeWeek": 1067,
+    "timeMonth": 1086,
+    "timeYear": 1086,
     "dailyMinutesDown": {
-      "2025-01-20": 0
+      "2025-01-20": 7
     }
   },
   {
