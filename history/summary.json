@@ -58,18 +58,20 @@
     "url": "https://benbowler.com",
     "icon": "https://icons.duckduckgo.com/ip3/benbowler.com.ico",
     "slug": "benbowler-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1088,
-    "timeDay": 1381,
+    "timeDay": 1134,
     "timeWeek": 1109,
     "timeMonth": 1088,
     "timeYear": 1088,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-21": 0
+    }
   },
   {
     "name": "G0 Labs",
