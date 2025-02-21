@@ -58,18 +58,19 @@
     "url": "https://benbowler.com",
     "icon": "https://icons.duckduckgo.com/ip3/benbowler.com.ico",
     "slug": "benbowler-com",
-    "status": "up",
-    "uptime": "96.54%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.55%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.95%",
-    "uptimeYear": "96.54%",
+    "uptimeYear": "96.55%",
     "time": 876,
     "timeDay": 663,
     "timeWeek": 677,
     "timeMonth": 717,
     "timeYear": 876,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-02-02": 987,
       "2025-02-01": 1224
     }
@@ -117,9 +118,9 @@
     "url": "https://printsignscan.app",
     "icon": "https://icons.duckduckgo.com/ip3/printsignscan.app.ico",
     "slug": "print-sign-scan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,6 +129,8 @@
     "timeWeek": 635,
     "timeMonth": 658,
     "timeYear": 658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   }
 ]
