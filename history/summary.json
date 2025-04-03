@@ -4,9 +4,9 @@
     "url": "https://indie.work",
     "icon": "https://icons.duckduckgo.com/ip3/indie.work.ico",
     "slug": "indie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 170,
     "timeMonth": 158,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "Aux",
     "url": "https://aux.app",
     "icon": "https://icons.duckduckgo.com/ip3/aux.app.ico",
     "slug": "aux",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +35,29 @@
     "timeWeek": 170,
     "timeMonth": 145,
     "timeYear": 137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "Direct",
     "url": "https://direct.app",
     "icon": "https://icons.duckduckgo.com/ip3/direct.app.ico",
     "slug": "direct",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 358,
-    "timeWeek": 195,
-    "timeMonth": 210,
-    "timeYear": 182,
-    "dailyMinutesDown": {}
+    "time": 181,
+    "timeDay": 245,
+    "timeWeek": 187,
+    "timeMonth": 208,
+    "timeYear": 181,
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "benbowler.com",
@@ -122,11 +128,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/printsignscan.app.ico",
     "slug": "print-sign-scan",
     "status": "up",
-    "uptime": "96.86%",
+    "uptime": "96.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.09%",
-    "uptimeYear": "96.86%",
+    "uptimeYear": "96.87%",
     "time": 675,
     "timeDay": 733,
     "timeWeek": 634,
@@ -145,11 +151,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nhgpc.org.uk.ico",
     "slug": "nhgpc",
     "status": "up",
-    "uptime": "94.73%",
+    "uptime": "94.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.73%",
-    "uptimeYear": "94.73%",
+    "uptimeMonth": "94.74%",
+    "uptimeYear": "94.74%",
     "time": 655,
     "timeDay": 680,
     "timeWeek": 652,
