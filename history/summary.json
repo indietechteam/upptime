@@ -91,9 +91,9 @@
     "url": "https://g0labs.com",
     "icon": "https://icons.duckduckgo.com/ip3/g0labs.com.ico",
     "slug": "g0-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -102,7 +102,9 @@
     "timeWeek": 627,
     "timeMonth": 668,
     "timeYear": 633,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 0
+    }
   },
   {
     "name": "RePatched",
